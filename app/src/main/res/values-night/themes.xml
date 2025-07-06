@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SizeWiseParkingApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/purple_80</item>
+        <item name="colorPrimaryVariant">@color/purple_grey_80</item>
+        <item name="colorOnPrimary">@color/background_ghost</item>
+        <item name="colorSecondary">@color/pink_80</item>
+        <item name="colorOnSecondary">@color/background_ghost</item>
+        <item name="android:colorBackground">@color/text_gray</item>
+        <item name="colorSurface">@color/text_gray</item>
+        <item name="colorOnBackground">@color/background_ghost</item>
+        <item name="colorOnSurface">@color/background_ghost</item>
+    </style>
+</resources>

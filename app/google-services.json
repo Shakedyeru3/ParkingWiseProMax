@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258902155306",
+    "project_id": "sizewiseparkingpromax",
+    "storage_bucket": "sizewiseparkingpromax.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258902155306:android:086178a8734737a1c7e353",
+        "android_client_info": {
+          "package_name": "com.example.sizewiseparkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258902155306-tii10a7efrrbh57gs2l95r5jvhl78m8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sizewiseparkingapp",
+            "certificate_hash": "c7310cb7c6eae43458768c5da9bc599c408546ff"
+          }
+        },
+        {
+          "client_id": "258902155306-mjkng4jgprgkitpu1t3nnj6migsitgro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4yMEAynLyEopLinJzsp1nrWJQ_pfeFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258902155306-mjkng4jgprgkitpu1t3nnj6migsitgro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

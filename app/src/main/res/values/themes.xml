@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SizeWiseParkingApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/background_ghost</item>
+        <item name="colorSecondary">@color/pink_500</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/background_ghost</item>
+        <item name="android:colorBackground">@color/background_ghost</item>
+        <item name="colorSurface">@color/background_ghost</item>
+        <item name="colorOnBackground">@color/text_gray</item>
+        <item name="colorOnSurface">@color/text_gray</item>
+        <item name="android:statusBarColor">@color/primary_purple</item>
+    </style>
+</resources>

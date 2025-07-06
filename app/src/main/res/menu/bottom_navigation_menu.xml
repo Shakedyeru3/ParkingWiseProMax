@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/title_map" />
+    <item
+        android:id="@+id/bottom_wallet"
+        android:icon="@drawable/ic_wallet"
+        android:title="@string/title_wallet" />
+    <item
+        android:id="@+id/bottom_reports"
+        android:icon="@drawable/ic_reports"
+        android:title="@string/title_reports" />
+    <item
+        android:id="@+id/bottom_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+</menu> 
